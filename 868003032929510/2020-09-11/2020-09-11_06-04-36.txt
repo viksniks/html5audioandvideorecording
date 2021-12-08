@@ -1,0 +1,1 @@
+{"m_s_mobileNumber":"868003032929510","m_s_latitude":"undefined","m_s_longitude":"undefined","m_s_address":null,"m_s_batteryPercentage":"undefined","m_s_status":null,"m_s_speed":"undefined","m_s_timestamp":"2020-09-11 18:04:36","m_s_internet":null,"m_s_name":null,"m_s_imageicon":null,"m_s_gpsFound":"undefined"}
